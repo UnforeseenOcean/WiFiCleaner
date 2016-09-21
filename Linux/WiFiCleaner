@@ -1,0 +1,4 @@
+#!/bin/bash
+# put it in the root folder if it doesn't run
+
+find . ! -name "YourSSID" -type f -delete
